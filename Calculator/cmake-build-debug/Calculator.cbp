@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="Calculator"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/daniel/OOPprojects/oop_17207_khudyakov/Calculator/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/daniel/OOPprojects/oop_17207_khudyakov/Calculator/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/daniel/OOPprojects/oop_17207_khudyakov/Calculator/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/daniel/OOPprojects/oop_17207_khudyakov/Calculator/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/daniel/OOPprojects/oop_17207_khudyakov/Calculator/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/home/daniel/OOPprojects/oop_17207_khudyakov/Calculator/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/daniel/OOPprojects/oop_17207_khudyakov/Calculator/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/daniel/OOPprojects/oop_17207_khudyakov/Calculator/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/daniel/OOPprojects/oop_17207_khudyakov/Calculator/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/daniel/OOPprojects/oop_17207_khudyakov/Calculator/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/daniel/OOPprojects/oop_17207_khudyakov/Calculator/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/daniel/OOPprojects/oop_17207_khudyakov/Calculator/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/daniel/OOPprojects/oop_17207_khudyakov/Calculator/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/daniel/OOPprojects/oop_17207_khudyakov/Calculator/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/daniel/OOPprojects/oop_17207_khudyakov/Calculator/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Calculator">
+				<Option output="/home/daniel/OOPprojects/oop_17207_khudyakov/Calculator/cmake-build-debug/Calculator" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/daniel/OOPprojects/oop_17207_khudyakov/Calculator/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/daniel/OOPprojects/oop_17207_khudyakov/Calculator/."/>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/daniel/OOPprojects/oop_17207_khudyakov/Calculator/cmake-build-debug/Makefile&quot;  VERBOSE=1 Calculator"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/daniel/OOPprojects/oop_17207_khudyakov/Calculator/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/daniel/OOPprojects/oop_17207_khudyakov/Calculator/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/daniel/OOPprojects/oop_17207_khudyakov/Calculator/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Calculator/fast">
+				<Option output="/home/daniel/OOPprojects/oop_17207_khudyakov/Calculator/cmake-build-debug/Calculator" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/daniel/OOPprojects/oop_17207_khudyakov/Calculator/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/daniel/OOPprojects/oop_17207_khudyakov/Calculator/."/>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/daniel/OOPprojects/oop_17207_khudyakov/Calculator/cmake-build-debug/Makefile&quot;  VERBOSE=1 Calculator/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/daniel/OOPprojects/oop_17207_khudyakov/Calculator/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/daniel/OOPprojects/oop_17207_khudyakov/Calculator/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/daniel/OOPprojects/oop_17207_khudyakov/Calculator/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/daniel/OOPprojects/oop_17207_khudyakov/Calculator/Calculator/Calculator.cpp">
+			<Option target="Calculator"/>
+		</Unit>
+		<Unit filename="/home/daniel/OOPprojects/oop_17207_khudyakov/Calculator/Calculator/Calculator.h">
+			<Option target="Calculator"/>
+		</Unit>
+		<Unit filename="/home/daniel/OOPprojects/oop_17207_khudyakov/Calculator/Context/Context.cpp">
+			<Option target="Calculator"/>
+		</Unit>
+		<Unit filename="/home/daniel/OOPprojects/oop_17207_khudyakov/Calculator/Context/Context.h">
+			<Option target="Calculator"/>
+		</Unit>
+		<Unit filename="/home/daniel/OOPprojects/oop_17207_khudyakov/Calculator/Exceptions/EmptyStack.cpp">
+			<Option target="Calculator"/>
+		</Unit>
+		<Unit filename="/home/daniel/OOPprojects/oop_17207_khudyakov/Calculator/Exceptions/EmptyStack.h">
+			<Option target="Calculator"/>
+		</Unit>
+		<Unit filename="/home/daniel/OOPprojects/oop_17207_khudyakov/Calculator/Exceptions/InvalidInput.cpp">
+			<Option target="Calculator"/>
+		</Unit>
+		<Unit filename="/home/daniel/OOPprojects/oop_17207_khudyakov/Calculator/Exceptions/InvalidInput.h">
+			<Option target="Calculator"/>
+		</Unit>
+		<Unit filename="/home/daniel/OOPprojects/oop_17207_khudyakov/Calculator/Exceptions/ZeroDivision.cpp">
+			<Option target="Calculator"/>
+		</Unit>
+		<Unit filename="/home/daniel/OOPprojects/oop_17207_khudyakov/Calculator/Exceptions/ZeroDivision.h">
+			<Option target="Calculator"/>
+		</Unit>
+		<Unit filename="/home/daniel/OOPprojects/oop_17207_khudyakov/Calculator/Factories/headers/DefineFactory.h">
+			<Option target="Calculator"/>
+		</Unit>
+		<Unit filename="/home/daniel/OOPprojects/oop_17207_khudyakov/Calculator/Factories/headers/DivisionFactory.h">
+			<Option target="Calculator"/>
+		</Unit>
+		<Unit filename="/home/daniel/OOPprojects/oop_17207_khudyakov/Calculator/Factories/headers/Factory.h">
+			<Option target="Calculator"/>
+		</Unit>
+		<Unit filename="/home/daniel/OOPprojects/oop_17207_khudyakov/Calculator/Factories/headers/MinusFactory.h">
+			<Option target="Calculator"/>
+		</Unit>
+		<Unit filename="/home/daniel/OOPprojects/oop_17207_khudyakov/Calculator/Factories/headers/MulFactory.h">
+			<Option target="Calculator"/>
+		</Unit>
+		<Unit filename="/home/daniel/OOPprojects/oop_17207_khudyakov/Calculator/Factories/headers/PlusFactory.h">
+			<Option target="Calculator"/>
+		</Unit>
+		<Unit filename="/home/daniel/OOPprojects/oop_17207_khudyakov/Calculator/Factories/headers/PopFactory.h">
+			<Option target="Calculator"/>
+		</Unit>
+		<Unit filename="/home/daniel/OOPprojects/oop_17207_khudyakov/Calculator/Factories/headers/PrintFactory.h">
+			<Option target="Calculator"/>
+		</Unit>
+		<Unit filename="/home/daniel/OOPprojects/oop_17207_khudyakov/Calculator/Factories/headers/PushFactory.h">
+			<Option target="Calculator"/>
+		</Unit>
+		<Unit filename="/home/daniel/OOPprojects/oop_17207_khudyakov/Calculator/Factories/headers/SqrtFactory.h">
+			<Option target="Calculator"/>
+		</Unit>
+		<Unit filename="/home/daniel/OOPprojects/oop_17207_khudyakov/Calculator/Factories/srs/DefineFactory.cpp">
+			<Option target="Calculator"/>
+		</Unit>
+		<Unit filename="/home/daniel/OOPprojects/oop_17207_khudyakov/Calculator/Factories/srs/DivisionFactory.cpp">
+			<Option target="Calculator"/>
+		</Unit>
+		<Unit filename="/home/daniel/OOPprojects/oop_17207_khudyakov/Calculator/Factories/srs/Factory.cpp">
+			<Option target="Calculator"/>
+		</Unit>
+		<Unit filename="/home/daniel/OOPprojects/oop_17207_khudyakov/Calculator/Factories/srs/MinusFactory.cpp">
+			<Option target="Calculator"/>
+		</Unit>
+		<Unit filename="/home/daniel/OOPprojects/oop_17207_khudyakov/Calculator/Factories/srs/MulFactory.cpp">
+			<Option target="Calculator"/>
+		</Unit>
+		<Unit filename="/home/daniel/OOPprojects/oop_17207_khudyakov/Calculator/Factories/srs/PlusFactory.cpp">
+			<Option target="Calculator"/>
+		</Unit>
+		<Unit filename="/home/daniel/OOPprojects/oop_17207_khudyakov/Calculator/Factories/srs/PopFactory.cpp">
+			<Option target="Calculator"/>
+		</Unit>
+		<Unit filename="/home/daniel/OOPprojects/oop_17207_khudyakov/Calculator/Factories/srs/PrintFactory.cpp">
+			<Option target="Calculator"/>
+		</Unit>
+		<Unit filename="/home/daniel/OOPprojects/oop_17207_khudyakov/Calculator/Factories/srs/PushFactory.cpp">
+			<Option target="Calculator"/>
+		</Unit>
+		<Unit filename="/home/daniel/OOPprojects/oop_17207_khudyakov/Calculator/Factories/srs/SqrtFactory.cpp">
+			<Option target="Calculator"/>
+		</Unit>
+		<Unit filename="/home/daniel/OOPprojects/oop_17207_khudyakov/Calculator/Operations/headers/DefineOperation.h">
+			<Option target="Calculator"/>
+		</Unit>
+		<Unit filename="/home/daniel/OOPprojects/oop_17207_khudyakov/Calculator/Operations/headers/DivisionOperation.h">
+			<Option target="Calculator"/>
+		</Unit>
+		<Unit filename="/home/daniel/OOPprojects/oop_17207_khudyakov/Calculator/Operations/headers/MinusOperation.h">
+			<Option target="Calculator"/>
+		</Unit>
+		<Unit filename="/home/daniel/OOPprojects/oop_17207_khudyakov/Calculator/Operations/headers/MulOperation.h">
+			<Option target="Calculator"/>
+		</Unit>
+		<Unit filename="/home/daniel/OOPprojects/oop_17207_khudyakov/Calculator/Operations/headers/Operations.h">
+			<Option target="Calculator"/>
+		</Unit>
+		<Unit filename="/home/daniel/OOPprojects/oop_17207_khudyakov/Calculator/Operations/headers/PlusOperation.h">
+			<Option target="Calculator"/>
+		</Unit>
+		<Unit filename="/home/daniel/OOPprojects/oop_17207_khudyakov/Calculator/Operations/headers/PopOperation.h">
+			<Option target="Calculator"/>
+		</Unit>
+		<Unit filename="/home/daniel/OOPprojects/oop_17207_khudyakov/Calculator/Operations/headers/PrintOperation.h">
+			<Option target="Calculator"/>
+		</Unit>
+		<Unit filename="/home/daniel/OOPprojects/oop_17207_khudyakov/Calculator/Operations/headers/PushOperation.h">
+			<Option target="Calculator"/>
+		</Unit>
+		<Unit filename="/home/daniel/OOPprojects/oop_17207_khudyakov/Calculator/Operations/headers/SqrtOperation.h">
+			<Option target="Calculator"/>
+		</Unit>
+		<Unit filename="/home/daniel/OOPprojects/oop_17207_khudyakov/Calculator/Operations/srs/DefineOperation.cpp">
+			<Option target="Calculator"/>
+		</Unit>
+		<Unit filename="/home/daniel/OOPprojects/oop_17207_khudyakov/Calculator/Operations/srs/DivisionOperation.cpp">
+			<Option target="Calculator"/>
+		</Unit>
+		<Unit filename="/home/daniel/OOPprojects/oop_17207_khudyakov/Calculator/Operations/srs/MinusOperation.cpp">
+			<Option target="Calculator"/>
+		</Unit>
+		<Unit filename="/home/daniel/OOPprojects/oop_17207_khudyakov/Calculator/Operations/srs/MulOperation.cpp">
+			<Option target="Calculator"/>
+		</Unit>
+		<Unit filename="/home/daniel/OOPprojects/oop_17207_khudyakov/Calculator/Operations/srs/Operation.cpp">
+			<Option target="Calculator"/>
+		</Unit>
+		<Unit filename="/home/daniel/OOPprojects/oop_17207_khudyakov/Calculator/Operations/srs/PlusOperation.cpp">
+			<Option target="Calculator"/>
+		</Unit>
+		<Unit filename="/home/daniel/OOPprojects/oop_17207_khudyakov/Calculator/Operations/srs/PopOperation.cpp">
+			<Option target="Calculator"/>
+		</Unit>
+		<Unit filename="/home/daniel/OOPprojects/oop_17207_khudyakov/Calculator/Operations/srs/PrintOperation.cpp">
+			<Option target="Calculator"/>
+		</Unit>
+		<Unit filename="/home/daniel/OOPprojects/oop_17207_khudyakov/Calculator/Operations/srs/PushOperation.cpp">
+			<Option target="Calculator"/>
+		</Unit>
+		<Unit filename="/home/daniel/OOPprojects/oop_17207_khudyakov/Calculator/Operations/srs/SqrtOperation.cpp">
+			<Option target="Calculator"/>
+		</Unit>
+		<Unit filename="/home/daniel/OOPprojects/oop_17207_khudyakov/Calculator/main.cpp">
+			<Option target="Calculator"/>
+		</Unit>
+		<Unit filename="/home/daniel/OOPprojects/oop_17207_khudyakov/Calculator/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

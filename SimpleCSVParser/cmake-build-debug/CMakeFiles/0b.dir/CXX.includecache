@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/daniel/OOPprojects/oop_17207_khudyakov/0b/main.cpp
+iostream
+-
+fstream
+-
+map
+-
+string
+-
+list
+-
+iomanip
+-
+

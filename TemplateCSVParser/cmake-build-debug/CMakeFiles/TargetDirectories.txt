@@ -1,0 +1,3 @@
+/home/daniel/OOPprojects/oop_17207_khudyakov/CSVParser/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/daniel/OOPprojects/oop_17207_khudyakov/CSVParser/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/daniel/OOPprojects/oop_17207_khudyakov/CSVParser/cmake-build-debug/CMakeFiles/CSVParser.dir

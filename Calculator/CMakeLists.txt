@@ -1,0 +1,9 @@
+cmake_minimum_required(VERSION 3.12)
+project(Calculator)
+
+set(CMAKE_CXX_STANDARD 17)
+include_directories(./)
+add_executable(Calculator main.cpp Operations/headers/Operations.h Operations/srs/MinusOperation.cpp Operations/headers/MinusOperation.h
+        Operations/srs/PlusOperation.cpp Operations/headers/PlusOperation.h Factories/headers/Factory.h Factories/srs/MinusFactory.cpp
+        Factories/headers/MinusFactory.h Factories/srs/PlusFactory.cpp Factories/headers/PlusFactory.h Context/Context.cpp Context/Context.h
+        Calculator/Calculator.cpp Calculator/Calculator.h Operations/srs/PopOperation.cpp Operations/headers/PopOperation.h Factories/srs/PopFactory.cpp Factories/headers/PopFactory.h Operations/srs/PushOperation.cpp Operations/headers/PushOperation.h Factories/srs/PushFactory.cpp Factories/headers/PushFactory.h Factories/srs/DivisionFactory.cpp Factories/headers/DivisionFactory.h Operations/srs/DivisionOperation.cpp Operations/headers/DivisionOperation.h Operations/srs/MulOperation.cpp Operations/headers/MulOperation.h Factories/srs/MulFactory.cpp Factories/headers/MulFactory.h Factories/srs/SqrtFactory.cpp Factories/headers/SqrtFactory.h Operations/srs/SqrtOperation.cpp Operations/headers/SqrtOperation.h Operations/srs/PrintOperation.cpp Operations/headers/PrintOperation.h Factories/srs/PrintFactory.cpp Factories/headers/PrintFactory.h Factories/srs/DefineFactory.cpp Factories/headers/DefineFactory.h Operations/srs/DefineOperation.cpp Operations/headers/DefineOperation.h Factories/srs/Factory.cpp Operations/srs/Operation.cpp Exceptions/InvalidInput.cpp Exceptions/InvalidInput.h Exceptions/EmptyStack.cpp Exceptions/EmptyStack.h Exceptions/ZeroDivision.cpp Exceptions/ZeroDivision.h)

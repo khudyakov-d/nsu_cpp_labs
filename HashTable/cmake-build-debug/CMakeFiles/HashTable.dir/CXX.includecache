@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/daniel/OOPprojects/oop_17207_khudyakov/HashTable/HashTable.cpp
+HashTable.h
+/home/daniel/OOPprojects/oop_17207_khudyakov/HashTable/HashTable.h
+
+/home/daniel/OOPprojects/oop_17207_khudyakov/HashTable/HashTable.h
+string
+-
+vector
+-
+list
+-
+map
+-
+iostream
+-
+
